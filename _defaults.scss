@@ -1,6 +1,6 @@
-///*------------------------------------*\
-//    #DEFAULTS
-//\*------------------------------------*/
+// -------------------------------------
+//   #DEFAULTS
+// -------------------------------------
 
 // These variables are TreeFramework’ defaults; they should not be modified or
 // adjusted, you should redfine the variables in your own overrides file and
@@ -51,4 +51,6 @@ $tree-heading-size-6:          14px !default;
 // These variables are framework variables, sourced from variables defined
 // above. Feel free to use these variables throughout your project, but do not
 // modify or reassign them.
-$tree-base-spacing-unit:       $tree-base-line-height;
+$tree-base-spacing-unit:           $tree-base-line-height;
+$tree-base-spacing-unit--small:    round($tree-base-spacing-unit / 2);
+$tree-base-spacing-unit--large:    round($tree-base-spacing-unit * 2);
