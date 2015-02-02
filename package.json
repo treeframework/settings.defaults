@@ -1,0 +1,20 @@
+{
+  "name": "tree-defaults",
+  "description": "Default settings.",
+  "version": "0.2.4",
+  "author": "Ilia Kolev <info@iliakolev.com>",
+  "bugs": {
+    "url": "https://github.com/treeframework/settings.defaults/issues"
+  },
+  "homepage": "https://github.com/treeframework/settings.defaults",
+  "keywords": [
+    "oocss",
+    "css"
+  ],
+  "license": "MIT",
+  "main": "_settings.defaults.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treeframework/settings.defaults.git"
+  }
+}

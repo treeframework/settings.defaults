@@ -5,7 +5,15 @@ The` defaults` module contains a few variables and settings that are
 
 Install using Bower:
 
-    $ bower install --save tree-defaults
+```sh
+$ bower install tree-defaults --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-defaults --save
+```
 
 ## Credits
 
